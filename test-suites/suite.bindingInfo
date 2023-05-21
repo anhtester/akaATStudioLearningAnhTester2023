@@ -1,0 +1,44 @@
+{
+  "suiteMapping": {
+    "944a8f37-c18c-4910-8e2b-ecd365c65ecc": [
+      {"roundBindingId":"df582011-b00a-4c66-93a4-225962be9ab9","tcId":"416144c1-f6f8-47ad-916b-b729ad0b00ba","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"e44568d0-e896-46b5-abfa-a45062ee3ab1","tcId":"416144c1-f6f8-47ad-916b-b729ad0b00ba","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""}
+    ],
+    "dc5bce1e-6571-4b2b-a69b-9cd07ba1dec1": [
+      {"roundBindingId":"aa54bdb8-0ca1-486d-a906-07f649e7af8a","tcId":"a043b8be-cf2c-438c-9c88-79ae851d9870","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[{"name":"password","source":"Default","value":"123456"},{"name":"url","source":"Default","value":"https://crm.anhtester.com/admin/authentication"},{"name":"email","source":"Default","value":"admin@example.com"}],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"6bbb6df3-4311-4521-9b68-13c866a2e87e","tcId":"4f1f8d7e-0bc7-4edd-94e4-e67ce00bda77","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"e3394aba-276b-470b-ab6d-5a80286809f9","tcId":"d6751d15-0ac9-46e4-a32a-a37fb6948871","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[{"name":"CurrentURL","source":"Default","value":""}],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"f21a423f-37a1-438e-9945-a2fd5d5642dc","tcId":"d6751d15-0ac9-46e4-a32a-a37fb6948871","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[{"name":"CurrentURL","source":"Default","value":""}],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"0c2c8a39-1fba-4452-b353-27a4e875366e","tcId":"a043b8be-cf2c-438c-9c88-79ae851d9870","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[{"name":"password","source":"Default","value":"123456"},{"name":"url","source":"Default","value":"https://crm.anhtester.com/admin/authentication"},{"name":"email","source":"Default","value":"admin@example.com"}],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"ae69bc8f-616d-43e8-81d5-f32e4f6f08f9","tcId":"4f1f8d7e-0bc7-4edd-94e4-e67ce00bda77","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"978ec724-8bd9-4f8b-bf44-886978120390","tcId":"d6751d15-0ac9-46e4-a32a-a37fb6948871","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[{"name":"CurrentURL","source":"Default","value":""}],"roundNameSource":"Default","roundName":""}
+    ],
+    "2f5d983c-415d-47a5-8567-239c5b4b0ed2": [
+      {"roundBindingId":"c7dbe29b-3065-45d6-a2e2-6087eefb9f5b","tcId":"2e6ad3f2-e7c0-4615-bcc9-10bec1191152","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"28241e28-218e-4344-9236-d5702869c700","tcId":"550af94c-9479-42c6-82c9-93c2961b1e34","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"56882d09-358b-40ec-bdb8-0b1c2d1dfdb3","tcId":"a043b8be-cf2c-438c-9c88-79ae851d9870","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[{"name":"password","source":"Default","value":"123456"},{"name":"url","source":"Default","value":"https://crm.anhtester.com/admin/authentication"},{"name":"email","source":"Default","value":"admin@example.com"}],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"d624f934-7eef-453b-9c33-7a699c96cdfa","tcId":"4f1f8d7e-0bc7-4edd-94e4-e67ce00bda77","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"3eca5f41-48a9-4f24-a97d-1d9124ba09a5","tcId":"d6751d15-0ac9-46e4-a32a-a37fb6948871","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[{"name":"CurrentURL","source":"Default","value":""}],"roundNameSource":"Default","roundName":""}
+    ],
+    "9e1afa15-df02-42b4-86e1-3f862ef686d4": [
+      {"roundBindingId":"295aeb8e-49ac-4a73-b5a6-eeabc29fc83c","tcId":"bfc6b8cf-96a9-49be-894a-2c07fbf41241","dataId":"4d238b62-79e5-4329-b635-3e19f5a54982","selectedRowKey":[[1,1],[1,3]],"testCaseVariableBinding":[{"name":"OrderNumberInput","source":"From Data Column","value":"ORDER_NUMBER"},{"name":"CategoryNameInput","source":"From Data Column","value":"CATEGORY_NAME"}],"roundNameSource":"From Data Column","roundName":"CATEGORY_NAME"}
+    ],
+    "8397fc6c-cf98-4937-a3ca-7591b792ccbc": [
+      {"roundBindingId":"82ef25b2-a947-4819-ad09-bfedf53ff8ee","tcId":"05459056-504d-4617-b7cd-71a55ea212d1","dataId":"2939f5fb-ee3c-4f6d-9e47-7c199d30a97b","selectedRowKey":[[1,1],[1,3]],"testCaseVariableBinding":[{"name":"PASSWORD","source":"From Data Column","value":"DATA_PASSWORD"},{"name":"EMAIL","source":"From Data Column","value":"DATA_EMAIL"},{"name":"URL","source":"From Data Column","value":"DATA_URL"}],"roundNameSource":"From Data Column","roundName":"DATA_NAME"}
+    ],
+    "10a24321-543e-40a5-a0ad-ab02856fd10d": [
+      {"roundBindingId":"02b25813-d771-4998-9ec6-91605641b458","tcId":"902f0335-7088-4514-ad07-eda963e0ec73","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[{"name":"OrderNumberInput","source":"Default","value":""},{"name":"CategoryNameInput","source":"Default","value":""}],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"dbd8be51-5122-4939-8b2d-5866cd098802","tcId":"494157e7-1cf7-4f0c-92ff-b55366c28b94","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"2dd5cb31-729f-4914-abc0-0d1a0f51e1de","tcId":"494157e7-1cf7-4f0c-92ff-b55366c28b94","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"From Data Column","roundName":"DATA_NAME"}
+    ],
+    "8770b242-afa1-47b4-84fb-6be6de9730b9": [
+      {"roundBindingId":"8ccce863-0ed1-4758-bef2-1a5f77ca2ac1","tcId":"494157e7-1cf7-4f0c-92ff-b55366c28b94","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"6872744c-b805-4083-9280-46823866f398","tcId":"494157e7-1cf7-4f0c-92ff-b55366c28b94","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""}
+    ],
+    "7b49c2fc-e110-4bbe-bae9-073ce9660891": [
+      {"roundBindingId":"f86d938b-fa08-4b4c-afc8-be9f1f0bbc6e","tcId":"902f0335-7088-4514-ad07-eda963e0ec73","dataId":"4d238b62-79e5-4329-b635-3e19f5a54982","selectedRowKey":[[1,1],[1,2]],"testCaseVariableBinding":[{"name":"OrderNumberInput","source":"From Data Column","value":"ORDER_NUMBER"},{"name":"CategoryNameInput","source":"From Data Column","value":"CATEGORY_NAME"}],"roundNameSource":"From Data Column","roundName":"CATEGORY_NAME"},
+      {"roundBindingId":"3e74623e-5929-4700-b319-e161b0942999","tcId":"494157e7-1cf7-4f0c-92ff-b55366c28b94","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"3579e542-df3c-4e77-90ed-7d76509cb52c","tcId":"494157e7-1cf7-4f0c-92ff-b55366c28b94","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""}
+    ]
+  }
+}

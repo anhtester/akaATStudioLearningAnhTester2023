@@ -1,0 +1,9 @@
+{
+    "uuid": "563fd45b-028b-45ac-aaf5-8f595cae781f",
+    "CAPABILITY": "ie:ieOptions",
+    "ieOptions": {},
+    "caps": {
+        "browserName": "internet explorer",
+        "se:ieOptions": {}
+    }
+}

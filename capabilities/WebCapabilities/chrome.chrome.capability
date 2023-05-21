@@ -1,0 +1,15 @@
+{
+    "uuid": "f74ceeb7-2e23-43f6-803c-5dc3c4457d4c",
+    "args": [],
+    "binary": "",
+    "extensionFiles": [],
+    "extensions": [],
+    "experimentalOptions": {
+        "excludeSwitches": [],
+        "prefs": {}
+    },
+    "CAPABILITY": "goog:chromeOptions",
+    "caps": {
+        "browserName": "chrome"
+    }
+}

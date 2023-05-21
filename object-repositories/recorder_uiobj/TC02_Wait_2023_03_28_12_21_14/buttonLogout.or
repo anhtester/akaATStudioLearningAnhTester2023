@@ -1,0 +1,37 @@
+{
+  "locatorList": [
+    {
+      "strategy": "XPath",
+      "value": "//a[text()\u003d\u0027\n            Logout            \u0027]",
+      "active": true,
+      "status": true,
+      "type": []
+    },
+    {
+      "strategy": "XPath",
+      "value": "html/body/div[2]/div/div[1]/div/div/div[3]/a",
+      "active": true,
+      "status": true,
+      "type": []
+    },
+    {
+      "strategy": "Linktext",
+      "value": "\n            Logout            ",
+      "active": true,
+      "status": true,
+      "type": []
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "fabcb155-e3e0-456d-abd6-32e612b65b4e"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "fabcb155-e3e0-456d-abd6-32e612b65b4e"
+}

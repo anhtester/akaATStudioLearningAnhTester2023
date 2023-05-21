@@ -1,0 +1,28 @@
+{
+  "customCatalogs": [
+    {
+      "id": "7c6a7520-f97f-4c89-baa1-aa66c02967f3",
+      "name": "Custom Keywords",
+      "platform": "E2E",
+      "source": "custom",
+      "keywords": [
+        {"uuid":"13e0d805-7e4e-46e7-a196-d50d35242525","name":"cong2So: Integer","platform":{"type":"Web"},"objRepo":[],"params":[{"name":"number1","type":"Integer","defaultValue":"0","source":""},{"name":"number2","type":"Integer","defaultValue":"0","source":""}],"output":{"name":"","type":"Integer","defaultValue":""},"keywordPath":"anhtester.utils.Calculator","keywordSource":"custom","keywordMethod":"cong2So","description":"Hàm cộng 2 số","failureDescription":"","enable":true,"captureImg":false},
+        {"uuid":"cfc1bf53-89e5-45f1-8c09-a53fdc16965a","name":"getName: String","platform":{"type":"Web"},"objRepo":[],"params":[],"output":{"name":"","type":"String","defaultValue":""},"keywordPath":"anhtester.utils.Calculator","keywordSource":"custom","keywordMethod":"getName","description":"Cộng 2 số nguyên","failureDescription":"","enable":true,"captureImg":false},
+        {"uuid":"5d943bce-8479-46ac-9c4a-e01bb9175741","name":"getFullName: String","platform":{"type":"Web"},"objRepo":[],"params":[],"output":{"name":"","type":"String","defaultValue":""},"keywordPath":"anhtester.utils.DataGeneration","keywordSource":"custom","keywordMethod":"getFullName","description":"Hàm generate Full Name","failureDescription":"","enable":true,"captureImg":false},
+        {"uuid":"53ce6a17-9838-4165-b3eb-b235443ba4aa","name":"getEmail: String","platform":{"type":"Web"},"objRepo":[],"params":[],"output":{"name":"","type":"String","defaultValue":""},"keywordPath":"anhtester.utils.DataGeneration","keywordSource":"custom","keywordMethod":"getEmail","description":"Hàm generate Email","failureDescription":"","enable":true,"captureImg":false},
+        {"uuid":"0dee0cf2-ffcd-4d1c-a2af-a3b7da0de545","name":"handleAuthentication: void","platform":{"type":"Web"},"objRepo":[],"params":[],"output":{"name":"","type":"void","defaultValue":""},"keywordPath":"anhtester.utils.ATKeyword","keywordSource":"custom","keywordMethod":"handleAuthentication","description":"Handle Authentication","failureDescription":"","enable":true,"captureImg":false},
+        {"uuid":"60197431-ed83-400f-9ce5-1f14f302495c","name":"getFolderPath: String","platform":{"type":"Web"},"objRepo":[],"params":[{"name":"filePath","type":"String","defaultValue":"","source":""}],"output":{"name":"","type":"String","defaultValue":""},"keywordPath":"anhtester.utils.FileUtils","keywordSource":"custom","keywordMethod":"getFolderPath","description":"Get Absolute Path","failureDescription":"","enable":true,"captureImg":false}
+      ]
+    },
+    {
+      "id": "c37c42e4-9382-49d3-80d6-9fb6aff972e8",
+      "name": "CMS_Keywords",
+      "platform": "E2E",
+      "source": "custom",
+      "keywords": [
+        {"uuid":"f7ea9785-6959-4bb7-ba23-55962ad78998","name":"loginCMS: void","platform":{"type":"Web"},"objRepo":[],"params":[{"name":"Email","type":"String","defaultValue":"","source":""},{"name":"Password","type":"String","defaultValue":"","source":""}],"output":{"name":"","type":"void","defaultValue":""},"keywordPath":"anhtester.keywords.SeleniumKeywords","keywordSource":"custom","keywordMethod":"loginCMS","description":"Hàm login CMS","failureDescription":"","enable":true,"captureImg":false}
+      ]
+    }
+  ],
+  "afterTcKws": []
+}

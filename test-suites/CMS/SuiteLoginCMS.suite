@@ -1,0 +1,93 @@
+{
+  "testCaseList": [
+    {
+      "uuid": "82ef25b2-a947-4819-ad09-bfedf53ff8ee",
+      "disable": false,
+      "caseUUID": "05459056-504d-4617-b7cd-71a55ea212d1",
+      "runProfile": {
+        "platformType": "Web",
+        "colorCode": "#52c41a",
+        "profile": {
+          "configCapability": {}
+        }
+      },
+      "testRounds": [
+        {
+          "uuid": "bf40846e-a1a2-46ee-aa51-57c10d181675",
+          "name": "Login Success",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [
+                "PASSWORD",
+                "EMAIL",
+                "URL"
+              ],
+              "dataTable": [
+                [
+                  "123456",
+                  "admin@example.com",
+                  "https://cms.anhtester.com/login"
+                ]
+              ],
+              "tableName": ""
+            }
+          }
+        },
+        {
+          "uuid": "e6d0aa30-8d85-4fcf-8a25-84abc00c3668",
+          "name": "Login with data Fail 1",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [
+                "PASSWORD",
+                "EMAIL",
+                "URL"
+              ],
+              "dataTable": [
+                [
+                  "123",
+                  "admin@example.com",
+                  "https://cms.anhtester.com/login"
+                ]
+              ],
+              "tableName": ""
+            }
+          }
+        },
+        {
+          "uuid": "45b39534-5599-41e5-9823-ee77963c69eb",
+          "name": "Login with data Fail 2",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [
+                "PASSWORD",
+                "EMAIL",
+                "URL"
+              ],
+              "dataTable": [
+                [
+                  "123456",
+                  "admin123@example.com",
+                  "https://cms.anhtester.com/login"
+                ]
+              ],
+              "tableName": ""
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "concurrent": 1,
+  "platform": "Web",
+  "uuid": "8397fc6c-cf98-4937-a3ca-7591b792ccbc"
+}

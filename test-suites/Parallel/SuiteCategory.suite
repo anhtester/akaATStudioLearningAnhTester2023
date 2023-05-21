@@ -1,0 +1,87 @@
+{
+  "testCaseList": [
+    {
+      "uuid": "295aeb8e-49ac-4a73-b5a6-eeabc29fc83c",
+      "disable": false,
+      "caseUUID": "bfc6b8cf-96a9-49be-894a-2c07fbf41241",
+      "runProfile": {
+        "platformType": "Web",
+        "colorCode": "#52c41a",
+        "profile": {
+          "configCapability": {}
+        }
+      },
+      "testRounds": [
+        {
+          "uuid": "fcabc6fd-dcfc-4b4a-a78d-35009e34f9d2",
+          "name": "Laptop",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [
+                "OrderNumberInput",
+                "CategoryNameInput"
+              ],
+              "dataTable": [
+                [
+                  "1",
+                  "Laptop"
+                ]
+              ],
+              "tableName": ""
+            }
+          }
+        },
+        {
+          "uuid": "27c9be9e-8fc8-4488-8198-e5a5b26b225f",
+          "name": "Mobile",
+          "disable": true,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [
+                "OrderNumberInput",
+                "CategoryNameInput"
+              ],
+              "dataTable": [
+                [
+                  "1",
+                  "Mobile"
+                ]
+              ],
+              "tableName": ""
+            }
+          }
+        },
+        {
+          "uuid": "ec8a33f1-2e01-43bc-9c04-64da69256d45",
+          "name": "Cake",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [
+                "OrderNumberInput",
+                "CategoryNameInput"
+              ],
+              "dataTable": [
+                [
+                  "2",
+                  "Cake"
+                ]
+              ],
+              "tableName": ""
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "concurrent": 1,
+  "platform": "Web",
+  "uuid": "9e1afa15-df02-42b4-86e1-3f862ef686d4"
+}

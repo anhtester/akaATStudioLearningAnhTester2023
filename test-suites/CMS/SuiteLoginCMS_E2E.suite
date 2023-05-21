@@ -1,0 +1,109 @@
+{
+  "testCaseList": [
+    {
+      "uuid": "3579e542-df3c-4e77-90ed-7d76509cb52c",
+      "disable": false,
+      "caseUUID": "494157e7-1cf7-4f0c-92ff-b55366c28b94",
+      "runProfile": {
+        "id": "ProfileChrome",
+        "platformType": "Web",
+        "capability": {
+          "capUUID": "f74ceeb7-2e23-43f6-803c-5dc3c4457d4c"
+        },
+        "gvProfile": {
+          "profileId": "GlobalChrome"
+        },
+        "colorCode": "#52c41a",
+        "profile": {
+          "configCapability": {}
+        }
+      },
+      "testRounds": [
+        {
+          "uuid": "98e52897-af3d-4464-b11a-42f7b7e81e72",
+          "name": "Round 1",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [],
+              "dataTable": [
+                []
+              ],
+              "tableName": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "f86d938b-fa08-4b4c-afc8-be9f1f0bbc6e",
+      "disable": false,
+      "caseUUID": "902f0335-7088-4514-ad07-eda963e0ec73",
+      "runProfile": {
+        "id": "ProfileEdge",
+        "platformType": "Web",
+        "capability": {
+          "capUUID": "dc955062-60f3-403c-817b-d542883a34c1"
+        },
+        "gvProfile": {
+          "profileId": "GlobalEdge"
+        },
+        "colorCode": "#597ef7",
+        "profile": {
+          "configCapability": {}
+        }
+      },
+      "testRounds": [
+        {
+          "uuid": "0ec0ab8c-fb9a-4045-8aec-17fb7a8331b8",
+          "name": "Laptop",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [
+                "OrderNumberInput",
+                "CategoryNameInput"
+              ],
+              "dataTable": [
+                [
+                  "1",
+                  "Laptop"
+                ]
+              ],
+              "tableName": ""
+            }
+          }
+        },
+        {
+          "uuid": "e6a48b86-5f37-4aea-9f5e-81b874535d2d",
+          "name": "Mobile",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [
+                "OrderNumberInput",
+                "CategoryNameInput"
+              ],
+              "dataTable": [
+                [
+                  "1",
+                  "Mobile"
+                ]
+              ],
+              "tableName": ""
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "concurrent": 1,
+  "platform": "E2E",
+  "uuid": "7b49c2fc-e110-4bbe-bae9-073ce9660891"
+}

@@ -1,0 +1,15 @@
+{
+    "uuid": "dc955062-60f3-403c-817b-d542883a34c1",
+    "args": [],
+    "binary": "",
+    "extensionFiles": [],
+    "extensions": [],
+    "experimentalOptions": {
+        "excludeSwitches": [],
+        "prefs": {}
+    },
+    "CAPABILITY": "ms:edgeOptions",
+    "caps": {
+        "browserName": "MicrosoftEdge"
+    }
+}

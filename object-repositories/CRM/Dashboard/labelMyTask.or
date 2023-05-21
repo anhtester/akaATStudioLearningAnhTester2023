@@ -1,0 +1,22 @@
+{
+  "locatorList": [
+    {
+      "strategy": "XPath",
+      "value": "//a[normalize-space()\u003d\u0027My Tasks\u0027]",
+      "type": [],
+      "active": true
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "641bcbfc-3a0f-4da2-884b-c708601c95cc"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "641bcbfc-3a0f-4da2-884b-c708601c95cc"
+}

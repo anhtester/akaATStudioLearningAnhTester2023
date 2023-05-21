@@ -1,0 +1,19 @@
+{
+  "varNode": {
+    "descendants": {
+      "PASSWORD": {
+        "descendants": {},
+        "value": "123456"
+      },
+      "EMAIL": {
+        "descendants": {},
+        "value": "admin@example.com"
+      },
+      "URL": {
+        "descendants": {},
+        "value": "https://crm.anhtester.com/admin/authentication"
+      }
+    }
+  },
+  "uuid": "GlobalChrome"
+}

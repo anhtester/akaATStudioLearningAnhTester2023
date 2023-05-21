@@ -1,0 +1,22 @@
+{
+  "locatorList": [
+    {
+      "strategy": "XPath",
+      "value": "//div[@class\u003d\u0027text-center alert alert-danger\u0027]",
+      "type": [],
+      "active": true
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "06f717bf-9e89-4232-a36b-de4a395e91e5"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "06f717bf-9e89-4232-a36b-de4a395e91e5"
+}

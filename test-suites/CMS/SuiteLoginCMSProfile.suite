@@ -1,0 +1,73 @@
+{
+  "testCaseList": [
+    {
+      "uuid": "2dd5cb31-729f-4914-abc0-0d1a0f51e1de",
+      "disable": false,
+      "caseUUID": "494157e7-1cf7-4f0c-92ff-b55366c28b94",
+      "runProfile": {
+        "platformType": "Web",
+        "colorCode": "#52c41a",
+        "profile": {
+          "configCapability": {}
+        }
+      },
+      "testRounds": [
+        {
+          "uuid": "21f38a1e-c89f-4b19-8ce5-9ab5e62a76a5",
+          "name": "Round 1",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [],
+              "dataTable": [
+                []
+              ],
+              "tableName": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "02b25813-d771-4998-9ec6-91605641b458",
+      "disable": false,
+      "caseUUID": "902f0335-7088-4514-ad07-eda963e0ec73",
+      "runProfile": {
+        "platformType": "Web",
+        "colorCode": "#52c41a",
+        "profile": {
+          "configCapability": {}
+        }
+      },
+      "testRounds": [
+        {
+          "uuid": "f57e0055-f490-4364-8c97-81a296044411",
+          "name": "Round 1",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [
+                "OrderNumberInput",
+                "CategoryNameInput"
+              ],
+              "dataTable": [
+                [
+                  "",
+                  ""
+                ]
+              ],
+              "tableName": ""
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "concurrent": 1,
+  "platform": "Web",
+  "uuid": "10a24321-543e-40a5-a0ad-ab02856fd10d"
+}

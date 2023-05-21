@@ -1,0 +1,7 @@
+###########metadata###########
+uuid=2939f5fb-ee3c-4f6d-9e47-7c199d30a97b
+###########data###########
+DATA_URL,DATA_EMAIL,DATA_PASSWORD,DATA_NAME
+https://cms.anhtester.com/login,admin@example.com,123456,Login Success
+https://cms.anhtester.com/login,admin@example.com,123,Login with data Fail 1
+https://cms.anhtester.com/login,admin123@example.com,123456,Login with data Fail 2

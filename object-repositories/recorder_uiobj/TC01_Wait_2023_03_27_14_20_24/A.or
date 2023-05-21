@@ -1,0 +1,37 @@
+{
+  "locatorList": [
+    {
+      "strategy": "XPath",
+      "value": "//a[text()\u003d\u0027\n                            All Brands\n                        \u0027]",
+      "active": true,
+      "status": true,
+      "type": []
+    },
+    {
+      "strategy": "XPath",
+      "value": "html/body/div[1]/header/div[2]/div/ul/li[4]/a",
+      "active": true,
+      "status": true,
+      "type": []
+    },
+    {
+      "strategy": "Linktext",
+      "value": "\n                            All Brands\n                        ",
+      "active": true,
+      "status": true,
+      "type": []
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "74f5c3c0-7a2c-4b72-a56b-6c74b70ecd51"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "74f5c3c0-7a2c-4b72-a56b-6c74b70ecd51"
+}

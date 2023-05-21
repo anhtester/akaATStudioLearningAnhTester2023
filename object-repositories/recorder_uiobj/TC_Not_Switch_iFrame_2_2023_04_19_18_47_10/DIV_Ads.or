@@ -1,0 +1,22 @@
+{
+  "locatorList": [
+    {
+      "strategy": "ID",
+      "value": "mys-wrapper",
+      "type": [],
+      "active": true
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "345a861c-da6e-4920-9f64-1e13d331f4d0"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "345a861c-da6e-4920-9f64-1e13d331f4d0"
+}

@@ -1,0 +1,37 @@
+{
+  "locatorList": [
+    {
+      "strategy": "ID",
+      "value": "landing",
+      "active": true,
+      "status": true,
+      "type": []
+    },
+    {
+      "strategy": "XPath",
+      "value": "//div[@id\u003d\u0027landing\u0027]",
+      "active": true,
+      "status": true,
+      "type": []
+    },
+    {
+      "strategy": "XPath",
+      "value": "html/body/div[1]/div[3]/div",
+      "active": true,
+      "status": true,
+      "type": []
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "f53f4b98-30cd-49e9-9fc0-5a3bdd2d7b6a"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "f53f4b98-30cd-49e9-9fc0-5a3bdd2d7b6a"
+}

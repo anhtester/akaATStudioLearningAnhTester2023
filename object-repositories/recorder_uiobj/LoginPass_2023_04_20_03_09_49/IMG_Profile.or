@@ -1,0 +1,22 @@
+{
+  "locatorList": [
+    {
+      "strategy": "XPath",
+      "value": "//li[@class\u003d\u0027icon header-user-profile\u0027]//img",
+      "type": [],
+      "active": true
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "8bdae4e6-2058-48c0-b910-859365d8b153"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "8bdae4e6-2058-48c0-b910-859365d8b153"
+}

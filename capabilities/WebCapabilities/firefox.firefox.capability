@@ -1,0 +1,13 @@
+{
+    "uuid": "299524e1-e875-447a-a601-c939c81e1f75",
+    "firefoxOptions": {
+        "args": []
+    },
+    "preferences": {},
+    "legacy": false,
+    "profile": {},
+    "CAPABILITY": "firefox:firefoxOptions",
+    "caps": {
+        "browserName": "firefox"
+    }
+}

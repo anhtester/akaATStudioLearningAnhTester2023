@@ -1,0 +1,30 @@
+{
+  "locatorList": [
+    {
+      "strategy": "ID",
+      "value": "_mN_main_1681401312581902974",
+      "active": true,
+      "status": true,
+      "type": []
+    },
+    {
+      "strategy": "XPath",
+      "value": "html/body/div[2]/div/div/iframe",
+      "active": true,
+      "status": true,
+      "type": []
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "37819cd0-d688-46ff-ae31-9d5b83a64f98"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "37819cd0-d688-46ff-ae31-9d5b83a64f98"
+}

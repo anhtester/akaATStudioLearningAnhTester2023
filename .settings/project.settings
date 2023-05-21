@@ -1,0 +1,36 @@
+{
+  "settings": {
+    "manager.projectId": "",
+    "project.path": "D:\\ANHTESTER\\akaATStudio\\Course_2023\\akaATStudioLearningAnhTester"
+  },
+  "runProfiles": [
+    {
+      "id": "ProfileChrome",
+      "platformType": "Web",
+      "capability": {
+        "capUUID": "f74ceeb7-2e23-43f6-803c-5dc3c4457d4c"
+      },
+      "gvProfile": {
+        "profileId": "GlobalChrome"
+      },
+      "colorCode": "#52c41a",
+      "profile": {
+        "configCapability": {}
+      }
+    },
+    {
+      "id": "ProfileEdge",
+      "platformType": "Web",
+      "capability": {
+        "capUUID": "299524e1-e875-447a-a601-c939c81e1f75"
+      },
+      "gvProfile": {
+        "profileId": "GlobalEdge"
+      },
+      "colorCode": "#597ef7",
+      "profile": {
+        "configCapability": {}
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+    "uuid": "3a99e7dd-352a-4a6c-87e7-f5c2f0bb4833",
+    "options": {},
+    "CAPABILITY": "safari:safariOptions",
+    "caps": {
+        "browserName": "safari"
+    }
+}

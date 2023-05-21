@@ -1,0 +1,30 @@
+{
+  "locatorList": [
+    {
+      "strategy": "XPath",
+      "value": "//ul/li[4]/div/a[1]/div/div[1]/div/div",
+      "active": true,
+      "status": true,
+      "type": []
+    },
+    {
+      "strategy": "XPath",
+      "value": "html/body/div[1]/div/div[2]/div/div/div[3]/div[2]/div[1]/div/div/div[2]/div/div[1]/ul/li[4]/div/a[1]/div/div[1]/div/div",
+      "active": true,
+      "status": true,
+      "type": []
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "080f73b9-e222-40b3-bf21-746545e4dd58"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "080f73b9-e222-40b3-bf21-746545e4dd58"
+}
